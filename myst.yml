@@ -2,21 +2,19 @@
 version: 1
 project:
   id: 5aa0318b-5bc1-41e2-b1d4-053e8b61961b
-  # title:
-  # description:
+  title: CCI Notebooks
+  description: Jupyter Notebooks for ESA's Climate Change Initiative
   # keywords: []
   # authors: []
-  # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
-  github: https://github.com/eoxhub-workspaces/documentation/
+  github: https://github.com/Schpidi/notebooks_test
   # license:
   #   code: MIT
   #   content: CC-BY-4.0
-  # binder: https://hub.test.eox.at
-binder: https://hub.test.eox.at
+binder: https://climate.hub-otc.eox.at
 
 site:
-  binder: https://hub.test.eox.at
+  binder: https://climate.hub-otc.eox.at
   template: book-theme
   options:
     folders: true
