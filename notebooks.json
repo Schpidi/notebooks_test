@@ -9,7 +9,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Ozone_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Ozone_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Ozone_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Sea Surface Salinity CCI Data",
@@ -21,7 +21,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/SSS_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/SSS_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/SSS_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Cloud CCI Data",
@@ -33,7 +33,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Cloud_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Cloud_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Cloud_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Aerosol CCI Data",
@@ -45,7 +45,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Aerosol_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Aerosol_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Aerosol_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Land Surface Temperature CCI Data",
@@ -57,7 +57,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/LST_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/LST_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/LST_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Sea Surface Temperature CCI Data",
@@ -69,7 +69,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/SST_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/SST_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/SST_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Biomass CCI Data",
@@ -81,7 +81,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Biomass_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Biomass_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Biomass_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Vegetation CCI Data",
@@ -93,7 +93,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Vegetation_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Vegetation_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Vegetation_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Snow CCI Data",
@@ -105,7 +105,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Snow_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Snow_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Snow_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Sea Level CCI Data",
@@ -117,7 +117,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Sealevel_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Sealevel_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Sealevel_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Land Cover CCI Data",
@@ -129,7 +129,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/LandCover_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/LandCover_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/LandCover_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Ocean Colour CCI Data",
@@ -141,7 +141,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Oceancolour_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Oceancolour_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Oceancolour_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Lakes CCI Data",
@@ -153,7 +153,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Lakes_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Lakes_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Lakes_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Sea Ice CCI Data",
@@ -165,7 +165,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Seaice_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Seaice_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Seaice_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Cloud CCI Data",
@@ -177,7 +177,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Fire_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Fire_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Fire_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Soil Moisture CCI Data",
@@ -189,7 +189,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Soilmoisture_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Soilmoisture_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Soilmoisture_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Permafrost CCI Data",
@@ -201,7 +201,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Permafrost_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Permafrost_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Permafrost_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Greenhouse Gases CCI Data",
@@ -213,7 +213,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/GHG_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/GHG_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/GHG_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Water Vapour CCI Data",
@@ -225,7 +225,7 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Watervapour_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Watervapour_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Watervapour_CCI.ipynb&branch=main"
   },
   {
     "title": "Getting Started with Ice Sheets CCI Data",
@@ -237,6 +237,6 @@
     "repo": "cci-notebooks",
     "source": "submodule",
     "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Icesheets_CCI.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Icesheets_CCI.ipynb&branch=main"
+    "gitpuller": "https://dashboard.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=notebooks/Icesheets_CCI.ipynb&branch=main"
   }
 ]
