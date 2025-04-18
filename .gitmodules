@@ -1,3 +1,3 @@
-[submodule "external_notebooks/eurodatacube/notebooks"]
-	path = external_notebooks/eurodatacube/notebooks
-	url = https://github.com/eurodatacube/notebooks.git
+[submodule "external_notebooks/cci"]
+	path = external_notebooks/cci
+	url = https://github.com/esa-cci/cci-notebooks
