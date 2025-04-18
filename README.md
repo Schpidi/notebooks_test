@@ -1,1 +1,1 @@
-# Location for eodashboard notebooks
+# Notebook viewer tests
