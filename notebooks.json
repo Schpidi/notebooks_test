@@ -1,29 +1,5 @@
 [
   {
-    "title": "\ud83d\udcd8 Example Notebook 2",
-    "description": "",
-    "metadata": {},
-    "image": null,
-    "link": "notebooks/example2",
-    "org": "santilland",
-    "repo": "notebooks_test",
-    "source": "local",
-    "path": "notebooks/example2.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/Schpidi/notebooks_test&urlpath=notebooks/example2.ipynb&branch=main"
-  },
-  {
-    "title": "\ud83d\udcd8 Example Notebook 1",
-    "description": "",
-    "metadata": {},
-    "image": null,
-    "link": "notebooks/example1",
-    "org": "santilland",
-    "repo": "notebooks_test",
-    "source": "local",
-    "path": "notebooks/example1.ipynb",
-    "gitpuller": "https://dashboard.test1.hub-int.eox.at/hub/user-redirect/git-pull?repo=https://github.com/Schpidi/notebooks_test&urlpath=notebooks/example1.ipynb&branch=main"
-  },
-  {
     "title": "Getting Started with Ozone CCI Data",
     "description": "",
     "metadata": {},
